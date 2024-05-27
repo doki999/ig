@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 #import re
 
 #p = re.compile('^(https?://)[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+/[a-zA-Z0-9-_/.?=]*')
-
+################
 # 네이버 이미지 검색결과 URL을 baseUrl 변수에 저장한 후,
 # plusUrl에 사용자 검색을 입력받고, baseUrl과 plusUrl를 더하여 url 변수에 저장한다.
 #baseUrl = 'https://search.naver.com/search.naver?sm=tab_hty.top&where=image&query='
